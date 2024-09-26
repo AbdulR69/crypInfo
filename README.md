@@ -48,7 +48,7 @@ These instructions will get you a copy of the project up and running on your loc
   Fork our repository or just clone this repo using your Command prompt or bash terminal
 
   ```
-  git clone www.github.com/yasier-ansari/cryplog.git
+  git clone www.github.com/AbdulR69/cryplog.git
   ```
 
 - Install Dependencies
