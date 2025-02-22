@@ -117,7 +117,7 @@ Curated and trending News in Cypto domain , served right at your digital doorste
 
 ## ✍️ Authors <a id = "authors"></a>
 
-- [@yasier_ansari](https://github.com/yasier-ansari) - Idea & Initial work
+- [@AbdulR69](https://github.com/yasier-ansari) - Idea & Initial work
 
 See also the list of [contributors](https://github.com/yasier-ansari/cryplog/contributors) who participated in this project.
 
